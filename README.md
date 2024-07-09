@@ -20,7 +20,7 @@
 
 ## Description
 
-Establishing relationship between the number of cigarettes smoked per day and the likelihood of developing cancer.
+Establishing a clear releationshib between number of cigerettes smoked and possibility of developing lung cancer. In this case we have used logistic regression technique to predict if a person smokes x number of cigerates, what is the probability of developing cancer in future.
 
 ## Video
 <!--
