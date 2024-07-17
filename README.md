@@ -23,9 +23,9 @@
 Establishing a clear releationshib between number of cigerettes smoked and possibility of developing lung cancer. In this case we have used logistic regression technique to predict if a person smokes x number of cigerates, what is the probability of developing cancer in future.
 
 ## Video
-<!--
-[![Watch the video](https://img.youtube.com/vi/tbd/hqdefault.jpg)](https://www.youtube.com/watch?v=tbd) 
--->
+
+[![Watch the video](https://img.youtube.com/vi/uJk649mToZc/hqdefault.jpg)](https://www.youtube.com/watch?v=uJk649mToZc) 
+
 
 We are working on this section. Please check at some other time.
 
