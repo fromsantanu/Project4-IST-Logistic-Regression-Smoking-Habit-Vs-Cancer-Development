@@ -27,7 +27,6 @@ Establishing a clear releationshib between number of cigerettes smoked and possi
 [![Watch the video](https://img.youtube.com/vi/uJk649mToZc/hqdefault.jpg)](https://www.youtube.com/watch?v=uJk649mToZc) 
 
 
-We are working on this section. Please check at some other time.
 
 ## Technologies-used
 
